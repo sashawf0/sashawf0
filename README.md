@@ -1,4 +1,4 @@
-![wallpaper](redme%20wallpaper.jpg)
+![wallpaper](./img/redme%20wallpaper.jpg)
 
 
 # Hello i'm `sasha` :smiling_imp:
