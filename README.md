@@ -1,7 +1,4 @@
-<video autoplay loop>
-<source src="./img/h.mp4" type="video/mp4">
-</video>
-
+![walp](./img/redme wallpaper.jpg)
 
 
 # Hello i'm `sasha` :smiling_imp:
