@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I am currently a front end developer<br>I am always learning<br>Love Linux and open source programs<br>I practice a lot<br>
+I am currently a front end developer<br>I am always learning<br>Love Linux and open source programs
 
 
 ## 🌐 Socials:
